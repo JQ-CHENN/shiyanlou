@@ -1,2 +1,2 @@
 hello world
-\nhell0 shiyanlou
+hell0 shiyanlou
